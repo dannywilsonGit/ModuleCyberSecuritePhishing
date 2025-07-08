@@ -1,1 +1,2 @@
 # ModuleCyberSecuritePhishing
+Lors d'une expérience professionelle en tant que développeur Php natif et Laravel , j'ai développé un module intégré à l'ERP de l'entreprise afin de lancer annuellement des campagnes de phishings , des faux mails avec des templates specifiques sont envoyés aux salariés de l'entreprise et les informations relatives aux clicks sont toutes récupérées afin de faire des statistiques et de prévenir contre de potentielles réelles attaques de personnes mal intentionnées 
